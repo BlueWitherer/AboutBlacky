@@ -1,2 +1,2 @@
-# AboutBlacky
-This repository is about Blacky - and how it is usable. 
+# Blacky
+Here you can find information about Blacky, how it works, rules, etc.
